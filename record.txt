@@ -1,0 +1,301 @@
+Epoch 1/150
+ - 3s - loss: 36.5067 - mean_absolute_error: 3.6207
+Epoch 2/150
+ - 1s - loss: 35.8753 - mean_absolute_error: 3.6129
+Epoch 3/150
+ - 2s - loss: 35.5498 - mean_absolute_error: 3.5989
+Epoch 4/150
+ - 1s - loss: 35.3193 - mean_absolute_error: 3.5856
+Epoch 5/150
+ - 1s - loss: 35.0400 - mean_absolute_error: 3.5712
+Epoch 6/150
+ - 1s - loss: 34.7362 - mean_absolute_error: 3.5572
+Epoch 7/150
+ - 1s - loss: 34.5730 - mean_absolute_error: 3.5453
+Epoch 8/150
+ - 1s - loss: 34.2757 - mean_absolute_error: 3.5430
+Epoch 9/150
+ - 1s - loss: 33.8106 - mean_absolute_error: 3.5067
+Epoch 10/150
+ - 1s - loss: 33.5069 - mean_absolute_error: 3.5050
+Epoch 11/150
+ - 1s - loss: 33.0833 - mean_absolute_error: 3.4827
+Epoch 12/150
+ - 2s - loss: 32.7110 - mean_absolute_error: 3.4571
+Epoch 13/150
+ - 1s - loss: 32.2225 - mean_absolute_error: 3.4504
+Epoch 14/150
+ - 1s - loss: 31.7625 - mean_absolute_error: 3.4331
+Epoch 15/150
+ - 2s - loss: 31.7397 - mean_absolute_error: 3.4319
+Epoch 16/150
+ - 2s - loss: 30.5892 - mean_absolute_error: 3.3958
+Epoch 17/150
+ - 1s - loss: 30.8388 - mean_absolute_error: 3.3878
+Epoch 18/150
+ - 1s - loss: 29.6904 - mean_absolute_error: 3.3591
+Epoch 19/150
+ - 3s - loss: 29.5660 - mean_absolute_error: 3.3302
+Epoch 20/150
+ - 1s - loss: 29.3403 - mean_absolute_error: 3.3364
+Epoch 21/150
+ - 1s - loss: 29.0313 - mean_absolute_error: 3.3258
+Epoch 22/150
+ - 1s - loss: 28.3637 - mean_absolute_error: 3.2969
+Epoch 23/150
+ - 1s - loss: 28.1750 - mean_absolute_error: 3.2913
+Epoch 24/150
+ - 1s - loss: 27.7376 - mean_absolute_error: 3.2648
+Epoch 25/150
+ - 1s - loss: 27.4004 - mean_absolute_error: 3.2594
+Epoch 26/150
+ - 1s - loss: 26.9285 - mean_absolute_error: 3.2294
+Epoch 27/150
+ - 1s - loss: 27.6520 - mean_absolute_error: 3.2467
+Epoch 28/150
+ - 1s - loss: 27.1882 - mean_absolute_error: 3.2293
+Epoch 29/150
+ - 1s - loss: 26.4399 - mean_absolute_error: 3.1784
+Epoch 30/150
+ - 1s - loss: 25.8920 - mean_absolute_error: 3.1547
+Epoch 31/150
+ - 1s - loss: 25.3886 - mean_absolute_error: 3.1399
+Epoch 32/150
+ - 3s - loss: 25.4084 - mean_absolute_error: 3.1420
+Epoch 33/150
+ - 1s - loss: 25.0089 - mean_absolute_error: 3.1255
+Epoch 34/150
+ - 1s - loss: 25.1389 - mean_absolute_error: 3.1196
+Epoch 35/150
+ - 1s - loss: 24.8220 - mean_absolute_error: 3.1288
+Epoch 36/150
+ - 1s - loss: 25.0025 - mean_absolute_error: 3.1275
+Epoch 37/150
+ - 1s - loss: 25.1109 - mean_absolute_error: 3.1236
+Epoch 38/150
+ - 1s - loss: 23.5973 - mean_absolute_error: 3.0762
+Epoch 39/150
+ - 1s - loss: 23.9324 - mean_absolute_error: 3.0662
+Epoch 40/150
+ - 1s - loss: 23.9144 - mean_absolute_error: 3.0709
+Epoch 41/150
+ - 1s - loss: 24.0817 - mean_absolute_error: 3.0883
+Epoch 42/150
+ - 1s - loss: 23.2062 - mean_absolute_error: 3.0379
+Epoch 43/150
+ - 1s - loss: 23.3136 - mean_absolute_error: 3.0371
+Epoch 44/150
+ - 1s - loss: 23.1647 - mean_absolute_error: 3.0211
+Epoch 45/150
+ - 1s - loss: 23.5882 - mean_absolute_error: 3.0584
+Epoch 46/150
+ - 1s - loss: 23.1077 - mean_absolute_error: 3.0207
+Epoch 47/150
+ - 1s - loss: 23.2573 - mean_absolute_error: 3.0299
+Epoch 48/150
+ - 1s - loss: 23.3587 - mean_absolute_error: 3.0177
+Epoch 49/150
+ - 1s - loss: 22.8928 - mean_absolute_error: 3.0018
+Epoch 50/150
+ - 1s - loss: 21.9964 - mean_absolute_error: 2.9727
+Epoch 51/150
+ - 2s - loss: 21.7198 - mean_absolute_error: 2.9583
+Epoch 52/150
+ - 1s - loss: 21.7791 - mean_absolute_error: 2.9559
+Epoch 53/150
+ - 1s - loss: 21.8188 - mean_absolute_error: 2.9473
+Epoch 54/150
+ - 1s - loss: 21.3792 - mean_absolute_error: 2.9313
+Epoch 55/150
+ - 1s - loss: 21.9754 - mean_absolute_error: 2.9592
+Epoch 56/150
+ - 1s - loss: 20.9095 - mean_absolute_error: 2.9018
+Epoch 57/150
+ - 1s - loss: 20.7703 - mean_absolute_error: 2.8886
+Epoch 58/150
+ - 1s - loss: 20.9185 - mean_absolute_error: 2.9067
+Epoch 59/150
+ - 1s - loss: 21.0520 - mean_absolute_error: 2.9183
+Epoch 60/150
+ - 1s - loss: 20.4834 - mean_absolute_error: 2.8788
+Epoch 61/150
+ - 1s - loss: 20.7302 - mean_absolute_error: 2.8742
+Epoch 62/150
+ - 1s - loss: 20.7302 - mean_absolute_error: 2.8815
+Epoch 63/150
+ - 1s - loss: 20.3831 - mean_absolute_error: 2.8499
+Epoch 64/150
+ - 1s - loss: 20.3850 - mean_absolute_error: 2.8708
+Epoch 65/150
+ - 1s - loss: 20.5007 - mean_absolute_error: 2.8683
+Epoch 66/150
+ - 1s - loss: 20.0583 - mean_absolute_error: 2.8354
+Epoch 67/150
+ - 1s - loss: 19.6981 - mean_absolute_error: 2.8213
+Epoch 68/150
+ - 1s - loss: 19.7195 - mean_absolute_error: 2.8213
+Epoch 69/150
+ - 1s - loss: 20.3416 - mean_absolute_error: 2.8374
+Epoch 70/150
+ - 1s - loss: 19.9611 - mean_absolute_error: 2.8363
+Epoch 71/150
+ - 1s - loss: 19.7367 - mean_absolute_error: 2.8178
+Epoch 72/150
+ - 1s - loss: 19.7468 - mean_absolute_error: 2.8100
+Epoch 73/150
+ - 1s - loss: 19.3717 - mean_absolute_error: 2.8054
+Epoch 74/150
+ - 1s - loss: 19.5766 - mean_absolute_error: 2.8175
+Epoch 75/150
+ - 1s - loss: 19.2388 - mean_absolute_error: 2.7831
+Epoch 76/150
+ - 1s - loss: 19.2895 - mean_absolute_error: 2.7996
+Epoch 77/150
+ - 1s - loss: 18.7826 - mean_absolute_error: 2.7642
+Epoch 78/150
+ - 1s - loss: 19.3296 - mean_absolute_error: 2.7745
+Epoch 79/150
+ - 1s - loss: 18.4960 - mean_absolute_error: 2.7538
+Epoch 80/150
+ - 1s - loss: 18.8933 - mean_absolute_error: 2.7622
+Epoch 81/150
+ - 1s - loss: 19.5525 - mean_absolute_error: 2.7855
+Epoch 82/150
+ - 1s - loss: 19.4061 - mean_absolute_error: 2.7936
+Epoch 83/150
+ - 1s - loss: 19.6942 - mean_absolute_error: 2.7791
+Epoch 84/150
+ - 1s - loss: 18.9820 - mean_absolute_error: 2.7614
+Epoch 85/150
+ - 1s - loss: 18.2505 - mean_absolute_error: 2.7231
+Epoch 86/150
+ - 1s - loss: 18.4142 - mean_absolute_error: 2.7239
+Epoch 87/150
+ - 1s - loss: 18.3197 - mean_absolute_error: 2.7395
+Epoch 88/150
+ - 1s - loss: 19.0102 - mean_absolute_error: 2.7344
+Epoch 89/150
+ - 1s - loss: 18.8069 - mean_absolute_error: 2.7476
+Epoch 90/150
+ - 1s - loss: 18.8574 - mean_absolute_error: 2.7500
+Epoch 91/150
+ - 1s - loss: 18.3536 - mean_absolute_error: 2.7142
+Epoch 92/150
+ - 1s - loss: 18.2575 - mean_absolute_error: 2.7213
+Epoch 93/150
+ - 1s - loss: 18.2922 - mean_absolute_error: 2.7042
+Epoch 94/150
+ - 1s - loss: 18.0088 - mean_absolute_error: 2.7018
+Epoch 95/150
+ - 1s - loss: 17.9677 - mean_absolute_error: 2.6878
+Epoch 96/150
+ - 1s - loss: 17.9203 - mean_absolute_error: 2.6928
+Epoch 97/150
+ - 1s - loss: 18.2290 - mean_absolute_error: 2.7039
+Epoch 98/150
+ - 1s - loss: 18.0203 - mean_absolute_error: 2.6984
+Epoch 99/150
+ - 1s - loss: 18.3770 - mean_absolute_error: 2.7021
+Epoch 100/150
+ - 1s - loss: 18.1039 - mean_absolute_error: 2.6957
+Epoch 101/150
+ - 1s - loss: 17.8685 - mean_absolute_error: 2.6673
+Epoch 102/150
+ - 1s - loss: 18.1129 - mean_absolute_error: 2.6895
+Epoch 103/150
+ - 1s - loss: 17.5496 - mean_absolute_error: 2.6724
+Epoch 104/150
+ - 1s - loss: 17.4824 - mean_absolute_error: 2.6693
+Epoch 105/150
+ - 1s - loss: 17.5607 - mean_absolute_error: 2.6663
+Epoch 106/150
+ - 1s - loss: 17.6426 - mean_absolute_error: 2.6608
+Epoch 107/150
+ - 1s - loss: 17.7796 - mean_absolute_error: 2.6714
+Epoch 108/150
+ - 1s - loss: 17.6446 - mean_absolute_error: 2.6814
+Epoch 109/150
+ - 1s - loss: 17.7309 - mean_absolute_error: 2.6656
+Epoch 110/150
+ - 1s - loss: 17.6868 - mean_absolute_error: 2.6736
+Epoch 111/150
+ - 1s - loss: 17.4528 - mean_absolute_error: 2.6454
+Epoch 112/150
+ - 1s - loss: 17.1980 - mean_absolute_error: 2.6332
+Epoch 113/150
+ - 1s - loss: 17.1560 - mean_absolute_error: 2.6227
+Epoch 114/150
+ - 1s - loss: 16.9960 - mean_absolute_error: 2.6213
+Epoch 115/150
+ - 1s - loss: 16.9844 - mean_absolute_error: 2.6123
+Epoch 116/150
+ - 1s - loss: 16.9975 - mean_absolute_error: 2.6218
+Epoch 117/150
+ - 1s - loss: 16.8687 - mean_absolute_error: 2.6079
+Epoch 118/150
+ - 1s - loss: 17.1375 - mean_absolute_error: 2.6197
+Epoch 119/150
+ - 1s - loss: 17.0666 - mean_absolute_error: 2.6108
+Epoch 120/150
+ - 1s - loss: 16.9143 - mean_absolute_error: 2.5969
+Epoch 121/150
+ - 1s - loss: 16.9008 - mean_absolute_error: 2.6217
+Epoch 122/150
+ - 1s - loss: 17.6546 - mean_absolute_error: 2.6389
+Epoch 123/150
+ - 1s - loss: 16.7957 - mean_absolute_error: 2.5954
+Epoch 124/150
+ - 1s - loss: 16.7461 - mean_absolute_error: 2.6025
+Epoch 125/150
+ - 1s - loss: 17.0453 - mean_absolute_error: 2.6218
+Epoch 126/150
+ - 1s - loss: 16.5714 - mean_absolute_error: 2.5948
+Epoch 127/150
+ - 1s - loss: 16.6524 - mean_absolute_error: 2.6015
+Epoch 128/150
+ - 1s - loss: 16.2211 - mean_absolute_error: 2.5845
+Epoch 129/150
+ - 1s - loss: 16.9251 - mean_absolute_error: 2.5914
+Epoch 130/150
+ - 1s - loss: 16.5249 - mean_absolute_error: 2.5959
+Epoch 131/150
+ - 1s - loss: 16.7982 - mean_absolute_error: 2.5989
+Epoch 132/150
+ - 1s - loss: 16.7771 - mean_absolute_error: 2.6054
+Epoch 133/150
+ - 1s - loss: 16.3177 - mean_absolute_error: 2.5716
+Epoch 134/150
+ - 1s - loss: 16.4444 - mean_absolute_error: 2.5831
+Epoch 135/150
+ - 1s - loss: 16.2763 - mean_absolute_error: 2.5780
+Epoch 136/150
+ - 1s - loss: 16.3860 - mean_absolute_error: 2.5830
+Epoch 137/150
+ - 1s - loss: 16.1678 - mean_absolute_error: 2.5670
+Epoch 138/150
+ - 1s - loss: 16.6544 - mean_absolute_error: 2.5695
+Epoch 139/150
+ - 1s - loss: 16.5431 - mean_absolute_error: 2.5869
+Epoch 140/150
+ - 1s - loss: 16.0625 - mean_absolute_error: 2.5616
+Epoch 141/150
+ - 1s - loss: 15.7339 - mean_absolute_error: 2.5429
+Epoch 142/150
+ - 1s - loss: 16.2122 - mean_absolute_error: 2.5564
+Epoch 143/150
+ - 1s - loss: 16.3575 - mean_absolute_error: 2.5626
+Epoch 144/150
+ - 1s - loss: 15.8757 - mean_absolute_error: 2.5523
+Epoch 145/150
+ - 1s - loss: 15.8513 - mean_absolute_error: 2.5360
+Epoch 146/150
+ - 1s - loss: 15.8874 - mean_absolute_error: 2.5284
+Epoch 147/150
+ - 1s - loss: 15.4998 - mean_absolute_error: 2.5206
+Epoch 148/150
+ - 1s - loss: 16.2169 - mean_absolute_error: 2.5465
+Epoch 149/150
+ - 1s - loss: 16.0654 - mean_absolute_error: 2.5468
+Epoch 150/150
+ - 1s - loss: 16.1488 - mean_absolute_error: 2.5417
+3.5958117527008056

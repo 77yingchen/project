@@ -1,0 +1,296 @@
+bras: does not have enough correlation
+[]
+pantie: does not have enough correlation
+[]
+boyshort: does not have enough correlation
+[]
+boyshorts: does not have enough correlation
+[(u'tank', 1), (u'skirt', 1), (u'bra', 1)]
+shaper: does not have enough correlation
+[]
+shapers: does not have enough correlation
+[]
+slips: does not have enough correlation
+[]
+slimmer: does not have enough correlation
+[]
+slimmers: does not have enough correlation
+[]
+thermals: does not have enough correlation
+[]
+nightgowns: does not have enough correlation
+[]
+sleepshirt: does not have enough correlation
+[]
+sleepshirts: does not have enough correlation
+[]
+trenchcoats: does not have enough correlation
+[]
+raincoats: does not have enough correlation
+[]
+parkas: does not have enough correlation
+[]
+puffers: does not have enough correlation
+[]
+puffs: does not have enough correlation
+[]
+tunics: does not have enough correlation
+[]
+T-shirt: does not have enough correlation
+[]
+T-shirts: does not have enough correlation
+[]
+shirtdresses: does not have enough correlation
+[]
+caftans: does not have enough correlation
+[]
+chemises: does not have enough correlation
+[]
+bodydoll: does not have enough correlation
+[]
+bodydolls: does not have enough correlation
+[]
+pantsuit: does not have enough correlation
+[]
+pantsuits: does not have enough correlation
+[]
+underwires: does not have enough correlation
+[]
+luggages: does not have enough correlation
+[]
+satchels: does not have enough correlation
+[]
+pouchs: does not have enough correlation
+[]
+scarfs: does not have enough correlation
+[]
+ponchos: does not have enough correlation
+[]
+visors: does not have enough correlation
+[]
+tubes: does not have enough correlation
+[(u'frame', 1)]
+hoods: does not have enough correlation
+[]
+shrugs: does not have enough correlation
+[]
+shawls: does not have enough correlation
+[]
+wristlets: does not have enough correlation
+[]
+mitten: does not have enough correlation
+[]
+Aviator: does not have enough correlation
+[]
+Tie: does not have enough correlation
+[]
+['bra', u'top', u'earrings', u'shorts', u'boots', u'bag'
+ 'thong', u'sandal', u'sandals', u'dress', u'top', u'earrings'
+ 'thongs', u'sandals', u'dress', u'flats', u'tank', u'camisole'
+ 'brief', u'bag', u'sunglasses', u'watch,', u'top', u'earrings'
+ 'briefs', u'bikini', u'top', u'swimsuit', u'sunglasses', u'hat'
+ 'panties', u'shorts', u'sweatshirts', u'tights', u'sweater', u'boots'
+ 'tight', u'top', u'ballerinas', u'choker', u'dress', u'earrings'
+ 'tights', u'earrings', u'top', u'boots', u'choker', u'necklace'
+ 'slip', u'dress', u'top', u'earrings', u'sunglasses', u'bag'
+ 'bodysuit', u'skirt', u'earrings', u'sunglasses', u'top', u'jeans'
+ 'bodysuits', u'shoes', u'tops', u'bangle', u'cap', u'bracelet'
+ 'camisole', u'top', u'jeans', u'earrings', u'skirt', u'sunglasses'
+ 'camisoles', u'tank', u'top', u'tops', u'skirt', u'boots'
+ 'tank', u'top', u'earrings', u'jeans', u'sunglasses', u'shorts'
+ 'tanks', u'boots', u'jacket', u'tank', u'shoes', u'tote'
+ 'pajama', u'earrings', u'slippers', u'socks', u'headband', u'pajamas'
+ 'pajamas', u'slippers', u'socks', u'headband', u'earrings', u'shoes'
+ 'thermal', u'tights', u'boots', u'skirt', u'jeans', u'top'
+ 'nightgown', u'tops', u'dress', u'heels', u'sandal', u'shoes'
+ 'coat', u'earrings', u'boots', u'top', u'dress', u'bag'
+ 'coats', u'jackets', u'jacket', u'shoes', u'earrings', u'boots'
+ 'trenchcoat', u'boots', u'skirt', u'dress', u'belt', u'backpack'
+ 'raincoat', u'jeans', u'top', u'boots', u'shirt', u'earrings'
+ 'jacket', u'top', u'earrings', u'jeans', u'sunglasses', u'bag'
+ 'jackets', u'jacket', u'top', u'boots', u'jeans', u'sunglasses'
+ 'blazer', u'earrings', u'bag', u'top', u'dress', u'sunglasses'
+ 'blazers', u'blazer', u'shoes', u'top', u'blouse', u'shirt'
+ 'parka', u'jeans', u'dress', u'top', u'bag', u'boots'
+ 'puffer', u'jeans', u'jacket', u'backpack', u'coat', u'boots'
+ 'puff', u'pumps', u'earrings', u'top', u'bracelet', u'necklace'
+ 'vest', u'top', u'skirt', u'earrings', u'sunglasses', u'boots'
+ 'vests', u'top', u'dress', u'shoes', u'beanie', u'cardigan'
+ 'blouse', u'earrings', u'bag', u'skirt', u'jeans', u'sunglasses'
+ 'blouses', u'necklace', u'top', u'ring', u'earrings', u'shoes'
+ 'shirt', u'earrings', u'jeans', u'bag', u'skirt', u'sunglasses'
+ 'shirts', u'top', u'shirt', u'sunglasses', u't-shirt', u'jeans'
+ 'cardigan', u'top', u'jeans', u'earrings', u'bag', u'dress'
+ 'cardigans', u'dress', u'cardigan', u'sweater', u'frame', u'shawl'
+ 'sweater', u'jeans', u'earrings', u'skirt', u'boots', u'sunglasses'
+ 'sweaters', u'shorts', u'bag', u'jeans', u'boots', u'top'
+ 'sweatshirt', u'sneakers', u'jeans', u'backpack', u'earrings', u'sunglasses'
+ 'sweatshirts', u'backpack', u'pullover', u'jacket', u'earring', u'necklace'
+ 'hoodie', u'sneakers', u'jeans', u'backpack', u'top', u'sunglasses'
+ 'hoodies', u'top', u'boots', u'tee', u'shirt', u'dress'
+ 'top', u'earrings', u'sunglasses', u'jeans', u'bag', u'skirt'
+ 'tops', u'top', u'shirt', u'boots', u'shorts', u'earrings'
+ 'tee', u'jeans', u'backpack', u't-shirt', u'earrings', u'top'
+ 'tees', u'shirt', u'jeans', u'shorts', u'boots', u'choker'
+ 'tunic', u'earrings', u'sunglasses', u'bag', u'top', u'jeans'
+ 'knit', u'top', u'dress', u'earrings', u'sunglasses', u'bag'
+ 'knits', u't-shirt', u'top', u'jeans', u'sneakers', u'tank'
+ 'dress', u'earrings', u'bag', u'sunglasses', u'necklace', u'clutch'
+ 'dresses', u'dress', u'earrings', u'bracelet', u'bag', u'sunglasses'
+ 'gown', u'earrings', u'clutch', u'necklace', u'dress', u'ring'
+ 'gowns', u'dresses', u'bracelet', u'earrings', u'short', u'dress'
+ 'shirtdress', u'sunglasses', u'bag', u'earrings', u'necklace', u'bracelet'
+ 'skirt', u'top', u'earrings', u'bag', u'sunglasses', u'necklace'
+ 'skirts', u'skirt', u'top', u'bag', u'earrings', u'sunglasses'
+ 'robe', u'earrings', u'dress', u'bag', u'ring', u'clutch'
+ 'robes', u'scarf', u'top', u'boots', u'tote', u'sunglasses'
+ 'caftan', u'flat', u'cardigan', u'tank', u'shirt', u'shorts'
+ 'chemise', u'shirt', u'earrings', u'bag', u'top', u'sunglasses'
+ 'jean', u'top', u'earrings', u'jacket', u'bag', u'sunglasses'
+ 'jeans', u'top', u'earrings', u'sunglasses', u'bag', u'backpack'
+ 'legging', u'jeans', u'top', u'bag', u'earrings', u'sneakers'
+ 'leggings', u'top', u'sneakers', u'backpack', u't-shirt', u'sunglasses'
+ 'pant', u'bag', u'top', u'earrings', u'sunglasses', u'wrap'
+ 'pants', u'top', u'earrings', u'bag', u'sunglasses', u'blouse'
+ 'short', u'top', u'earrings', u'sunglasses', u'skirt', u'shorts'
+ 'shorts', u'top', u'sunglasses', u'earrings', u'sneakers', u'bag'
+ 'sweatpant', u'top', u'backpack', u'sunglasses', u'tank', u'hoodie'
+ 'trouser', u'top', u'belt', u'earrings', u'bag', u'necklace'
+ 'sweatpants', u'top', u'earrings', u'boots', u'choker', u'sneakers'
+ 'trousers', u'top', u'earrings', u'bag', u'sunglasses', u'boots'
+ 'jumpsuit', u'earrings', u'sunglasses', u'bag', u'sandals', u'bracelet'
+ 'jumpsuits', u'earrings', u'jumpsuit', u'heel', u'blouse', u'sandal'
+ 'romper', u'sunglasses', u'earrings', u'bag', u'sandals', u'bracelet'
+ 'rompers', u'romper', u'jumpsuits', u'bracelet', u'boots', u'jacket'
+ 'overall', u'top', u'earrings', u'dress', u'sneakers', u'shorts'
+ 'overalls', u'top', u'backpack', u'sneakers', u'boots', u'socks'
+ 'pullover', u'jeans', u'sneakers', u'bag', u'boots', u'skirt'
+ 'pullovers', u'top', u'boots', u'tee', u'hoodies', u'shirt'
+ 'swimsuit', u'sunglasses', u'earrings', u'bikini', u'sandals', u'bag'
+ 'swimsuits', u'bracelet', u'bag', u'flat', u'sunglasses', u'tote'
+ 'underwire', u'bikini', u'top', u'swimsuit', u'dress', u'skirt'
+ 'bikini', u'top', u'sunglasses', u'earrings', u'bag', u'shorts'
+ 'bikinis', u'bikini', u'bags', u'top', u'tops', u'bag'
+ 'boot', u'top', u'jeans', u'earrings', u'sunglasses', u'jacket'
+ 'boots', u'earrings', u'top', u'jeans', u'bag', u'sunglasses'
+ 'bootie', u'top', u'jeans', u'earrings', u'sunglasses', u'bag'
+ 'booties', u'top', u'earrings', u'bag', u'sunglasses', u'jeans'
+ 'espadrille', u'sunglasses', u'bag', u'top', u'sandals', u'dress'
+ 'espadrilles', u'sunglasses', u'top', u'earrings', u'dress', u'bag'
+ 'flat', u'top', u'sunglasses', u'earrings', u'dress', u'bag'
+ 'flats', u'earrings', u'top', u'dress', u'sunglasses', u'bag'
+ 'sandal', u'earrings', u'dress', u'top', u'sunglasses', u'bag'
+ 'sandals', u'dress', u'earrings', u'top', u'bag', u'sunglasses'
+ 'pump', u'earrings', u'dress', u'bag', u'bracelet', u'top'
+ 'pumps', u'dress', u'earrings', u'bag', u'top', u'clutch'
+ 'sneaker', u'top', u'backpack', u'sunglasses', u'jeans', u't-shirt'
+ 'sneakers', u'top', u'jeans', u'sunglasses', u'backpack', u'shorts'
+ 'trainer', u'sneakers', u'socks', u'ring', u'top', u'jeans'
+ 'trainers', u'top', u'jeans', u'bag', u'earrings', u'shorts'
+ 'mule', u'earrings', u'bag', u'sunglasses', u'top', u'loafer'
+ 'mules', u'earrings', u'bag', u'dress', u'sunglasses', u'top'
+ 'slide', u'top', u'bag', u'earrings', u'shorts', u'dress'
+ 'slides', u'sunglasses', u'top', u'earrings', u'shorts', u'bracelet'
+ 'loafer', u'bag', u'sunglasses', u'top', u'earrings', u'jeans'
+ 'loafers', u'earrings', u'bag', u'skirt', u'shirt', u'jeans'
+ 'shoes', u'earrings', u'dress', u'top', u'bag', u'necklace'
+ 'shoe', u'jeans', u'top', u'bag', u't-shirt', u'sunglasses'
+ 'slipper', u'earrings', u'bag', u'dress', u'top', u'sunglasses'
+ 'slippers', u'bag', u'sunglasses', u'top', u'flat', u'earrings'
+ 'backpacks', u'top', u'shorts', u'bag', u'jeans', u'sneakers'
+ 'backpack', u'sunglasses', u'top', u'jeans', u'earrings', u'sneakers'
+ 'bag', u'earrings', u'sunglasses', u'top', u'dress', u'necklace'
+ 'bags', u'bag', u'earrings', u'top', u'dress', u'necklace'
+ 'pack', u'backpack', u'top', u'jeans', u'sneakers', u'earrings'
+ 'packs', u'belts', u'coat', u'earrings', u'slingbacks', u'backpacks'
+ 'wallet', u'earrings', u'dress', u'sunglasses', u'top', u'bracelet'
+ 'wallets', u'bags', u'dress', u'shoes', u'necklace', u'earrings'
+ 'clutch', u'earrings', u'dress', u'necklace', u'sandals', u'bracelet'
+ 'clutches', u'dress', u'bags', u'earrings', u'ring', u'sandals'
+ 'luggage', u'belt', u'sunglasses', u'necklace', u'dress', u'earrings'
+ 'satchel', u'top', u'earrings', u'sunglasses', u'jeans', u'bracelet'
+ 'tote', u'earrings', u'sunglasses', u'top', u'dress', u'skirt'
+ 'totes', u'sandals', u'earrings', u'bag', u'bikini', u'short'
+ 'pouch', u'earrings', u'sunglasses', u'dress', u'top', u'necklace'
+ 'case', u'top', u'earrings', u'bag', u'jeans', u'dress'
+ 'cases', u'dress', u'shorts', u'bag', u'backpack', u'ring'
+ 'oxford', u'top', u'earrings', u'sunglasses', u'shirt', u'shorts'
+ 'oxfords', u'shoes', u'top', u'dress', u'earrings', u'short'
+ 'bracelet', u'earrings', u'sunglasses', u'dress', u'top', u'necklace'
+ 'bracelets', u'earrings', u'top', u'dress', u'bag', u'necklace'
+ 'bangle', u'earrings', u'bracelet', u'dress', u'sunglasses', u'necklace'
+ 'bangles', u'bracelet', u'earrings', u'necklace', u'top', u'dress'
+ 'pin', u'earrings', u'top', u'dress', u'jeans', u'bag'
+ 'pins', u'earrings', u'top', u'necklace', u'shorts', u'bracelet'
+ 'brooch', u'earrings', u'necklace', u'clutch', u'dress', u'ring'
+ 'brooches', u'ring', u'dress', u'blouse', u'earrings', u'hat'
+ 'earring', u'dress', u'top', u'bag', u'sunglasses', u'necklace'
+ 'earrings', u'dress', u'bag', u'top', u'sunglasses', u'bracelet'
+ 'necklace', u'earrings', u'top', u'dress', u'bracelet', u'bag'
+ 'necklaces', u'necklace', u'earrings', u'bag', u'top', u'sunglasses'
+ 'choker', u'top', u'earrings', u'boots', u'jeans', u'ring'
+ 'chokers', u'earrings', u'top', u'boots', u'shorts', u'choker'
+ 'ring', u'earrings', u'bracelet', u'necklace', u'dress', u'top'
+ 'rings', u'earrings', u'ring', u'bracelet', u'top', u'necklace'
+ 'watch', u'earrings', u'sunglasses', u'bag', u'bracelet', u'top'
+ 'watches', u'bracelet', u'earrings', u'top', u'dress', u'sunglasses'
+ 'belt', u'earrings', u'top', u'sunglasses', u'bag', u'jeans'
+ 'belts', u'belt', u'bracelet', u'jeans', u'top', u'earrings'
+ 'scarf', u'sunglasses', u'earrings', u'bag', u'top', u'dress'
+ 'cape', u'dress', u'necklace', u'earrings', u'top', u'ring'
+ 'capes', u'top', u'shawl', u'wraps', u'cardigan', u'tights'
+ 'hat', u'sunglasses', u'earrings', u'dress', u'bag', u'top'
+ 'hats', u'bag', u'dress', u'earrings', u'sunglasses', u'sandals'
+ 'poncho', u'jeans', u'sunglasses', u'top', u'earrings', u'necklace'
+ 'sunglass', u'top', u'jeans', u'bag', u'necklace', u'dress'
+ 'sunglasses', u'earrings', u'top', u'bag', u'dress', u'bracelet'
+ 'visor', u'sunglasses', u'earrings', u'shorts', u'bracelet', u'bag'
+ 'tube', u'top', u'skirt', u'earrings', u'bag', u'jacket'
+ 'headband', u'earrings', u'top', u'dress', u'necklace', u'skirt'
+ 'headbands', u'necklace', u'dress', u'sandals', u'earrings', u'skirt'
+ 'glove', u'skirt', u'booties', u'sunglasses', u'top', u'earrings'
+ 'gloves', u'top', u'earrings', u'boots', u'ring', u'dress'
+ 'wrap', u'top', u'earrings', u'bracelet', u'dress', u'sunglasses'
+ 'wraps', u'sandals', u'shawl', u'top', u'jeans', u'dress'
+ 'frame', u'earrings', u'bag', u'top', u'sunglasses', u'dress'
+ 'frames', u'top', u'jeans', u'bag', u'earrings', u'shorts'
+ 'hood', u'jeans', u'jacket', u'top', u'bag', u'boots'
+ 'shrug', u'earrings', u'skirt', u'top', u'bag', u'boot'
+ 'shawl', u'earrings', u'top', u'boots', u'choker', u'bracelet'
+ 'wristlet', u'clutch', u'dress', u'earrings', u'sunglasses', u'bag'
+ 'mittens', u'shirt', u'jeans', u'top', u'boot', u'bag'
+ 'cap', u'top', u'sunglasses', u'sneakers', u'backpack', u'jeans'
+ 'caps', u'necklace', u'tops', u'bracelet', u'short', u'tank'
+ 'heel', u'earrings', u'dress', u'bag', u'top', u'sunglasses'
+ 'heels', u'dress', u'earrings', u'bag', u'top', u'necklace'
+ 'bottle', u'sunglasses', u'top', u'backpack', u'earrings', u'shorts'
+ 'watch,', u'earrings', u'sunglasses', u'bracelet', u'top', u'bag'
+ 'playsuit', u'sunglasses', u'earrings', u'bracelet', u'bag', u'sandals'
+ 'sunglasses,', u'top', u'bag', u'earrings', u'jeans', u'bracelet'
+ 'jumper', u'jeans', u'sunglasses', u'earrings', u'skirt', u'backpack'
+ 'miniskirt', u'necklace', u'earrings', u'blouse', u'headband', u'sweater'
+ 'beanie', u'jeans', u'backpack', u'top', u'boots', u'sneakers'
+ 'ray-ban', u'top', u'bracelet', u'earrings', u'aviator', u'jeans'
+ 'jogger', u'bag', u'sneaker', u'backpack', u'sneakers', u'top'
+ 'joggers', u'sneakers', u'top', u'backpack', u't-shirt', u'sunglasses'
+ 'handbag', u'earrings', u'dress', u'top', u'bag', u'necklace'
+ 'sunhat', u'sunglasses', u'dress', u'earrings', u'top', u'bag'
+ 'eyewear', u'sunglasses', u'earrings', u'bag', u'top', u'dress'
+ 'ballerinas', u'earrings', u'bag', u'dress', u'top', u'sunglasses'
+ 'socks', u'top', u'shorts', u'earrings', u'sneakers', u'skirt'
+ 'purse', u'earrings', u'bag', u'top', u'dress', u'necklace'
+ 'fedora', u'hat', u'sunglasses', u'earrings', u'bracelet', u'top'
+ 'handbag', u'earrings', u'dress', u'top', u'bag', u'necklace'
+ 'aviator', u'sunglasses', u'top', u'earrings', u'bag', u'jeans'
+ 'waistcoat', u'bracelet', u'earrings', u'top', u'skirt', u'bag'
+ 'fascinator', u'dress', u'clutch', u'earrings', u'ring', u'pumps'
+ 'kaftan', u'sunglasses', u'bikini', u'earrings', u'top', u'hat'
+ 'hoody', u'sneakers', u'jeans', u'top', u'shorts', u'sunglasses'
+ 'tiara', u'dress', u'earrings', u'ring', u'gown', u'shoes'
+ 'boina', u'top', u'earrings', u'bag', u'jeans', u'sunglasses'
+ 'slingbacks', u'dress', u'earrings', u'bag', u'sunglasses', u'wallet'
+ 'sunnies', u'top', u'ring', u'earrings', u'clutch', u'jeans'
+ 'castaner', u'sunglasses', u'dress', u'earrings', u'top', u'wallet'
+ 'kimono', u'top', u'earrings', u'bag', u'dress', u'necklace'
+ 'sandalen', u'earrings', u'top', u'dress', u'bag', u'clutch'
+ 't-shirt', u'jeans', u'sunglasses', u'backpack', u'sneakers', u'earrings']
